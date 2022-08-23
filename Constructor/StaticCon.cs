@@ -1,13 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Constructor
+﻿namespace Constructor
 {
     class Car
-    { 
+    {
         // static constructor
         static Car()
         {
