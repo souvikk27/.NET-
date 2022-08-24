@@ -1,0 +1,15 @@
+C:\Users\SOUVIK\source\repos\Async Function Lambda Expression\Async Function Lambda Expression\bin\Debug\net6.0\Anonymous Function Lambda Expression.exe
+C:\Users\SOUVIK\source\repos\Async Function Lambda Expression\Async Function Lambda Expression\bin\Debug\net6.0\Anonymous Function Lambda Expression.deps.json
+C:\Users\SOUVIK\source\repos\Async Function Lambda Expression\Async Function Lambda Expression\bin\Debug\net6.0\Anonymous Function Lambda Expression.runtimeconfig.json
+C:\Users\SOUVIK\source\repos\Async Function Lambda Expression\Async Function Lambda Expression\bin\Debug\net6.0\Anonymous Function Lambda Expression.dll
+C:\Users\SOUVIK\source\repos\Async Function Lambda Expression\Async Function Lambda Expression\bin\Debug\net6.0\Anonymous Function Lambda Expression.pdb
+C:\Users\SOUVIK\source\repos\Async Function Lambda Expression\Async Function Lambda Expression\obj\Debug\net6.0\Anonymous Function Lambda Expression.csproj.AssemblyReference.cache
+C:\Users\SOUVIK\source\repos\Async Function Lambda Expression\Async Function Lambda Expression\obj\Debug\net6.0\Anonymous Function Lambda Expression.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SOUVIK\source\repos\Async Function Lambda Expression\Async Function Lambda Expression\obj\Debug\net6.0\Anonymous Function Lambda Expression.AssemblyInfoInputs.cache
+C:\Users\SOUVIK\source\repos\Async Function Lambda Expression\Async Function Lambda Expression\obj\Debug\net6.0\Anonymous Function Lambda Expression.AssemblyInfo.cs
+C:\Users\SOUVIK\source\repos\Async Function Lambda Expression\Async Function Lambda Expression\obj\Debug\net6.0\Anonymous Function Lambda Expression.csproj.CoreCompileInputs.cache
+C:\Users\SOUVIK\source\repos\Async Function Lambda Expression\Async Function Lambda Expression\obj\Debug\net6.0\Anonymous Function Lambda Expression.dll
+C:\Users\SOUVIK\source\repos\Async Function Lambda Expression\Async Function Lambda Expression\obj\Debug\net6.0\refint\Anonymous Function Lambda Expression.dll
+C:\Users\SOUVIK\source\repos\Async Function Lambda Expression\Async Function Lambda Expression\obj\Debug\net6.0\Anonymous Function Lambda Expression.pdb
+C:\Users\SOUVIK\source\repos\Async Function Lambda Expression\Async Function Lambda Expression\obj\Debug\net6.0\Anonymous Function Lambda Expression.genruntimeconfig.cache
+C:\Users\SOUVIK\source\repos\Async Function Lambda Expression\Async Function Lambda Expression\obj\Debug\net6.0\ref\Anonymous Function Lambda Expression.dll

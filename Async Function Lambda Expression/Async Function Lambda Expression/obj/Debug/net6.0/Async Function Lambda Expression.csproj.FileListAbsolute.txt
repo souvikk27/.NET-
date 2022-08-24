@@ -1,0 +1,5 @@
+C:\Users\SOUVIK\source\repos\Async Function Lambda Expression\Async Function Lambda Expression\obj\Debug\net6.0\Async Function Lambda Expression.csproj.AssemblyReference.cache
+C:\Users\SOUVIK\source\repos\Async Function Lambda Expression\Async Function Lambda Expression\obj\Debug\net6.0\Async Function Lambda Expression.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SOUVIK\source\repos\Async Function Lambda Expression\Async Function Lambda Expression\obj\Debug\net6.0\Async Function Lambda Expression.AssemblyInfoInputs.cache
+C:\Users\SOUVIK\source\repos\Async Function Lambda Expression\Async Function Lambda Expression\obj\Debug\net6.0\Async Function Lambda Expression.AssemblyInfo.cs
+C:\Users\SOUVIK\source\repos\Async Function Lambda Expression\Async Function Lambda Expression\obj\Debug\net6.0\Async Function Lambda Expression.csproj.CoreCompileInputs.cache
